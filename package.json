@@ -1,0 +1,17 @@
+{
+  "name": "charLcd",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "q": "latest",
+    "queue": "^4.0.1",
+    "underscore": "^1.8.3",
+    "onoff": "^1.8.3"
+  },
+  "devDependencies": {
+    "cpu-stat": "latest"
+  }
+}
